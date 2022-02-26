@@ -1,0 +1,26 @@
+
+.login-form {
+  max-width: 300px;
+  /*margin: 100px auto;*/
+}
+
+.login-form-margin {
+  margin-bottom: 16px;
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+.mat-toolbar {
+  display: flex;
+}
+.karma{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
